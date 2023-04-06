@@ -1,0 +1,11 @@
+C:\Users\79304\source\repos\зачет\зачет\bin\Debug\зачет.exe.config
+C:\Users\79304\source\repos\зачет\зачет\bin\Debug\зачет.exe
+C:\Users\79304\source\repos\зачет\зачет\bin\Debug\зачет.pdb
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.csproj.AssemblyReference.cache
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.csproj.SuggestedBindingRedirects.cache
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.Form1.resources
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.Properties.Resources.resources
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.csproj.GenerateResource.cache
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.csproj.CoreCompileInputs.cache
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.exe
+C:\Users\79304\source\repos\зачет\зачет\obj\Debug\зачет.pdb
